@@ -1,0 +1,5 @@
+
+module "graylog" {
+    source = "./graylog"
+
+}
